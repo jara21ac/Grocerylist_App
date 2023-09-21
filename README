@@ -1,0 +1,11 @@
+Om applikationen:
+Applikationen har til formål at påvirke den måde, folk planlægger og udfører deres indkøb på. 
+Dette værktøj er designet til at hjælpe brugerne med at optimere deres indkøbsliste på en intelligent måde. 
+Grundlæggende baseres indkøbslisten på de opskrifter, som brugeren har valgt at inkludere i deres ugeplan. 
+Denne tilgang gør det muligt for brugerne at skabe en mere bevidst forbindelse mellem deres madvaner og indkøb.
+
+Vejledning:
+Installer npm "npm install"
+start expo appliaktionen ved enten "npm start" eller "expo start"
+Det kræver at have Expo GO installeret på en mobile enhed
+Åben Expo GO og scan QR koden
